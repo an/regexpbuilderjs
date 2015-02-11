@@ -8,6 +8,7 @@
 
 var self = RegExpBuilder.prototype;
 
+
 self._clear = function () {
     this._min = -1;
     this._max = -1;
